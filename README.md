@@ -1,9 +1,27 @@
-# Proyecto Grupal (KISI)
+# Página Web: Grupo KISI
 
-Hemos realizado nuestra página web, donde hemos desarrollado una estructura Html y un maquetado en scss.
+Mi primer sitio web grupal con HTML y SASS .
 
-Durante el proceso nos hemos encontrado diversos problemas a la hora de poder incluir el Hero y su título, ya que por error escogimos una imagen que no era adecuada por su color y tamaño.
-en medio del proyecto optamos por cambiar la imagen y así porder adaptar adecuadamente lo que solicitaba, lo que conlleva cambios en html y scss.
+Este proyecto consta de una página de inicio donde se presenta el grupo de trabajo y cada uno de sus integrantes. Si desea ponerse en contacto con el grupo, simplemente haga clic en la opción "contacto" en el navegador.
 
-Tuvimos que investigar como conseguir un hiperenlace, para poder navegar por la propia página sin hacer scroll.
-Tuvimos que ir modificando el proyecto a las herramientas que nos iban facilitando cada día en el bootcamp, como (ramas, grid, starter kit Adalab,.....).
+## Para poder navegar por este repositorio puedes seguir estos pasos:
+
+1- En la carpeta SRC/ encontrarás los archivos que he creado en HTML y SCSS, pero también la carpeta de fuentes e imágenes.
+
+2- También están las carpetas public/ y docs/, estas se crean automáticamente al iniciar el proyecto. Su funcionalidad es súper importante a la hora de poder visualizar lo que se está creando. Estoy seguro de que querrás saber un poco más sobre este proyecto, ¡así que no dudes en contactarme para cualquier pregunta o consejo para mejorar mi código!
+
+## 🛠 Skills
+
+- ZEPLIN🔎
+- CÓDIGO DE ESTUDIO VISUAL (VSC)🗄️
+- HTML📌
+- CSS🕹️
+- GIT/GITHUB📂
+- SASS/SCSS🔗
+
+## Authors
+
+- [@Karlafdez7](https://www.github.com/Karlafdez7)
+- [@IsabelCollado](https://www.github.com/IsabelCollado)
+
+Gracias por visitarme🔎
